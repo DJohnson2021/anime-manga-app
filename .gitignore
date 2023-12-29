@@ -1,0 +1,36 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript compiled output
+dist/
+out/
+
+# Environment configuration files
+.env
+
+# IDE and editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Optional npm cache & npx
+.npm
+.npx
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
